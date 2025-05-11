@@ -2,7 +2,7 @@
 
 > 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES Ribera del Tajo  
 > 💼 Actualmente en prácticas en CDS (Hewlett Packard Enterprise)  
-> 🌱 Apasionado por Java, y el desarrollo móvil
+> 🌱 Apasionado por Java, y el desarrollo móvil  
 > 📫 Contáctame: bertotala93@gmail.com
 
 ## 🛠️ Tech Stack
