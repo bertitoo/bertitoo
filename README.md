@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-17-red) ![Firebase](https://img.shields.io/badge/Firebase-Auth-blueviolet) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-red) ![Firebase](https://img.shields.io/badge/Firebase-FFA611?logo=firebase&logoColor=000000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL_Developer-003B57?logo=oracle&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-FB7F2D?logo=netbeans&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-1792E8?logo=virtualbox&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ## 🎓 Formación y Experiencia
 
