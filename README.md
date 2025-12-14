@@ -13,7 +13,7 @@
 
 - **Ciclo Formativo de Grado Medio** en Sistemas Microinformáticos y Redes (IES Ribera del Tajo, 2021–2023)  
 - **Ciclo Formativo de Grado Superior** en Desarrollo de Aplicaciones Multiplataforma (IES Ribera del Tajo, 2023–2025)  
-- **Prácticas en CDS (HPE)**: soporte a desarrollos internos y despliegues híbridos (mar. 2025 – actualidad)  
+- **Prácticas en CDS (HPE)**: soporte a desarrollos internos y despliegues híbridos (mar. 2025 – jun. 2025)  
 - **Prácticas como técnico de Soporte** en Qian S.A. de C.V. (mar. 2023 – jun. 2023)
 
 ## 📫 Conecta conmigo
