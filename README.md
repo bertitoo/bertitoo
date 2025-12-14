@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy (Al)berto
 
-> 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES Ribera del Tajo  
-> 💼 Actualmente en prácticas en CDS (Hewlett Packard Enterprise)  
-> 🌱 Apasionado por Java, y el desarrollo móvil  
+> 🎓 Técnico en sistemas y Desarrollo de Aplicaciones Multiplataforma
+> 💼 He realizado prácticas en CDS (Hewlett Packard Enterprise) como desarrollador y en Qian S.A. como técnico de Soporte.  
+> 🌱 Apasionado por Java y el desarrollo móvil, pero abierto a aprender nuevas tecnologías.
 > 📫 Contáctame: bertotala93@gmail.com
 
 ## 🛠️ Tech Stack
